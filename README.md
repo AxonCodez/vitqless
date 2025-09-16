@@ -22,7 +22,7 @@ The core problem is that students at VIT Vellore waste time and face frustration
 ### Unified Service Dashboard
 This is the central hub of the application, designed as a **single-screen mobile/web app**. It presents the services offering a queue (messes,sports courts, gyms,etc). Each service is represented by a card that displays a simple status of **"Open" or "Closed,"** without showing live queue data. A button on each card allows the student to proceed to the next step.
 
-### Basic Live Queue and Appointment System
+### Live Queue and Appointment System
 This section outlines the core functionality for managing queues and appointments.
 
 #### Queueing Module (for Messes)
@@ -37,7 +37,7 @@ This module allows students to book a fixed time slot for a meeting.
 * **Confirmation:** The student taps on a slot to book it, which then becomes unavailable. A **confirmation message** with the date and time is provided upon successful booking.
 * There is calendar synchronization and automated reminders, keeping the process simple and direct.
 
-### Basic Admin
+### Admin System
 This portal is a single web page or a simple app for each service provider, enabling manual queue and appointment management.
-* **Queueing Service:** For the mess hall, the interface displays a list of active tokens with a large **"Serve Next"** button to advance the counter.
-* **Appointment Service:** For the Student Affairs office, the page shows a simple list of all appointments booked for the day.
+* **Queueing Service:** For the mess, the interface displays a list of active tokens with a large **"Serve Next"** button to advance the counter.
+* **Appointment Service:** For the admins, the page shows a simple list of all appointments booked for the day.
