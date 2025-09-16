@@ -1,7 +1,6 @@
 ***
 
-# **VIT Q-Less**
-* Queue less to stress less *
+# **VIT Q-Less:** *Queue less to stress less*
 
 ## Short Description
 The **VIT Q-Less** platform is a comprehensive digital solution engineered to resolve the inefficiencies associated with physical queuing and appointment management at Vellore Institute of Technology (VIT). The platform offers a streamlined, user-centric interface for students to manage their engagement with key campus services, thereby converting unproductive waiting time into a period of enhanced academic and personal productivity.
