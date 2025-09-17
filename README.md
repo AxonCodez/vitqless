@@ -8,7 +8,7 @@ The **VIT Q-Less** platform is a comprehensive digital solution engineered to re
 ***
 
 ## Problem Statement
-The core problem is that students at VIT Vellore waste time and face frustration due to inefficient systems for queuing and booking appointments for common campus services. The current campus ecosystem consists of a major flaw: long physical waiting queues at high-traffic service points such as messes, administrative offices, HOD rooms, and Proctor cabins. There is currently no methods or ways to solve this major issue. Thus creating a need for an optimal solution thereby helping VIT Students and faculties.
+The core problem is that students at VIT Vellore waste time and face frustration due to inefficient systems for queuing and booking appointments for common campus services. The current campus ecosystem consists of a major flaw: long physical waiting queues at high-traffic service points such as messes, administrative offices, HOD rooms, and Proctor cabins. There are currently no methods or ways to solve this major issue. Thus creating a need for an optimal solution thereby helping VIT Students and faculties.
 
 ***
 
