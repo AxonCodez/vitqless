@@ -41,3 +41,6 @@ This module allows students to book a fixed time slot for a meeting.
 This portal is a single web page or a simple app for each service provider, enabling manual queue and appointment management.
 * **Queueing Service:** For the mess, the interface displays a list of active tokens with a large **"Serve Next"** button to advance the counter.
 * **Appointment Service:** For the admins, the page shows a simple list of all appointments booked for the day.
+
+
+![Test Image 4](.png)
