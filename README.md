@@ -42,5 +42,6 @@ This portal is a single web page or a simple app for each service provider, enab
 * **Queueing Service:** For the mess, the interface displays a list of active tokens with a large **"Serve Next"** button to advance the counter.
 * **Appointment Service:** For the admins, the page shows a simple list of all appointments booked for the day.
 
+## Screenshots
 
-![Test Image 4](.png)
+![.png](https://github.com/AxonCodez/vitqless/blob/55b24f5b67fd5c41d0753c453555df80dbfc15ee/Screenshot%202025-09-17%20125243.png)
