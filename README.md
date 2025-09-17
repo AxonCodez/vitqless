@@ -42,6 +42,26 @@ This portal is a single web page or a simple app for each service provider, enab
 * **Queueing Service:** For the mess, the interface displays a list of active tokens with a large **"Serve Next"** button to advance the counter.
 * **Appointment Service:** For the admins, the page shows a simple list of all appointments booked for the day.
 
+## Tech stack
+**1. Front-End (Web & Mobile)**
+* **Framework:** **React.js** for the web application and **React Native** for the mobile app.
+* **Language:** **JavaScript (ES6+)**.
+
+**2. Back-End**
+* **Framework:** **Python** with **Flask**.
+* **Database Connector:** Libraries like **PyMongo** for MongoDB and the **Firebase Admin SDK**.
+
+**3. Database**
+* **Primary Database:** **MongoDB** (specifically MongoDB Atlas for cloud-hosting).
+    * **Purpose:** For storing core application data such as user profiles, queue information, and appointment details.
+* **Authentication & Real-time Features:** **Firebase**.
+    * **Purpose:** For user authentication, and potentially for real-time notifications and updates (e.g., live queue status).
+
+**4. Deployment**
+* **Front-End:** **Vercel**
+* **Back-End:** **Heroku** or **AWS** (e.g., using AWS EC2 with a Gunicorn server).
+
+
 ## Future enhancements
 ### **1. User Accessibility & Inclusivity**
 
