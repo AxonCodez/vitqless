@@ -94,5 +94,7 @@ Transition the platform from a campus project to a commercially viable service.
 These enhancements will help **VIT Q-Less** grow into a comprehensive solution for managing queues and appointments across diverse sectors of Indian society.
 ## Screenshots
 
+(Only for ideation purpose to visualize product... No work or Prototype has been started yet)
+
 ![.png](https://github.com/AxonCodez/vitqless/blob/55b24f5b67fd5c41d0753c453555df80dbfc15ee/Screenshot%202025-09-17%20125243.png)
 ![.png](https://github.com/AxonCodez/vitqless/blob/13ea636312fd8470e55c078da42341e4041c09b5/Screenshot%202025-09-17%20125728.png)
